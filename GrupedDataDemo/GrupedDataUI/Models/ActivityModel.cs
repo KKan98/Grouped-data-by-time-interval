@@ -8,7 +8,7 @@ namespace GrupedDataUI.Models
 {
     public class ActivityModel
     {
-        public Guid Id { get; set; }
+        public int Id { get; set; }
         [Required(ErrorMessage = "Enter the activity")]
         public string Activity { get; set; }
         public string Description { get; set; }
