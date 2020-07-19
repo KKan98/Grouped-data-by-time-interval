@@ -8,6 +8,7 @@ using GroupedData.Application.Features.RegistrationActivity;
 using GroupedData.Application.Infrastructure;
 using GroupedData.Domain.Activity;
 using GroupedData.Infrastructure;
+using GroupedData.Presentation.Activity;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -36,6 +37,9 @@ namespace GrupedDataUI
             services.AddScoped<ICommandHandler<RegistrationActivityCommand>, RegistrationActivityCommandHandler>();
             services.AddScoped<IActivityFactory,ActivityFactory>();
             services.AddScoped<IActivityRepository, ActivityRepository>();
+            services.AddScoped<IActivityPresentationRepository, ActivityPresentationRepository>();
+
+            services.AddSingleton<IInMemoryDb<ActivityEntity>, InMemoryActivity>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

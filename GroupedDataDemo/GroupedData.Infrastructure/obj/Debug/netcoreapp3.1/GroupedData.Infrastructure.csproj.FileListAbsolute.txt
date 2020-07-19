@@ -6,3 +6,4 @@ C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\Groupe
 C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\GroupedDataDemo\GroupedData.Infrastructure\bin\Debug\netcoreapp3.1\GroupedData.Infrastructure.pdb
 C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\GroupedDataDemo\GroupedData.Infrastructure\obj\Debug\netcoreapp3.1\GroupedData.Infrastructure.dll
 C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\GroupedDataDemo\GroupedData.Infrastructure\obj\Debug\netcoreapp3.1\GroupedData.Infrastructure.pdb
+C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\GroupedDataDemo\GroupedData.Infrastructure\obj\Debug\netcoreapp3.1\GroupedData.Infrastructure.csprojAssemblyReference.cache
