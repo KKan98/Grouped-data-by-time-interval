@@ -4,7 +4,7 @@ using System.Text;
 
 namespace GrupedData.Domain.Activity
 {
-    class Activity
+    public class Activity
     {
         private readonly string _commandActivity;
         private readonly string _commandDescription;

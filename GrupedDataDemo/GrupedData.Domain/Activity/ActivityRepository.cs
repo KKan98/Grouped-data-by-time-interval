@@ -4,7 +4,7 @@ using System.Text;
 
 namespace GrupedData.Domain.Activity
 {
-    class ActivityRepository : IActivityRepository
+    public class ActivityRepository : IActivityRepository
     {
     }
 }
