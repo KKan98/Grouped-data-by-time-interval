@@ -1,0 +1,8 @@
+C:\Users\kacpe\OneDrive\Pulpit\Projekty\Check\Grouped-data-by-time-interval\GrupedDataDemo\GrupedData.Domain\obj\Debug\netcoreapp3.1\GroupedData.Domain.csprojAssemblyReference.cache
+C:\Users\kacpe\OneDrive\Pulpit\Projekty\Check\Grouped-data-by-time-interval\GrupedDataDemo\GrupedData.Domain\obj\Debug\netcoreapp3.1\GroupedData.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\OneDrive\Pulpit\Projekty\Check\Grouped-data-by-time-interval\GrupedDataDemo\GrupedData.Domain\obj\Debug\netcoreapp3.1\GroupedData.Domain.AssemblyInfoInputs.cache
+C:\Users\kacpe\OneDrive\Pulpit\Projekty\Check\Grouped-data-by-time-interval\GrupedDataDemo\GrupedData.Domain\obj\Debug\netcoreapp3.1\GroupedData.Domain.AssemblyInfo.cs
+C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\GroupedDataDemo\GrupedData.Domain\obj\Debug\netcoreapp3.1\GroupedData.Domain.csprojAssemblyReference.cache
+C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\GroupedDataDemo\GrupedData.Domain\obj\Debug\netcoreapp3.1\GroupedData.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\GroupedDataDemo\GrupedData.Domain\obj\Debug\netcoreapp3.1\GroupedData.Domain.AssemblyInfoInputs.cache
+C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\GroupedDataDemo\GrupedData.Domain\obj\Debug\netcoreapp3.1\GroupedData.Domain.AssemblyInfo.cs
