@@ -29,8 +29,8 @@ namespace GroupedData.Infrastructure
         {
             var activityEntities = new List<ActivityEntity>();
 
-            activityEntities.Add(new ActivityEntity(Guid.NewGuid(), "Bieg dystansowy", "Stadion olimpijski", "19:07:2020"));
-            activityEntities.Add(new ActivityEntity(Guid.NewGuid(), "Jazda konna", "Kon nazywal sie Plotka", "20:07:2020:"));
+            activityEntities.Add(new ActivityEntity(Guid.NewGuid(), "Bieg dystansowy", "Stadion olimpijski", "2020-07-12"));
+            activityEntities.Add(new ActivityEntity(Guid.NewGuid(), "Jazda konna", "Kon nazywal sie Plotka", "2020-07-13"));
 
             return activityEntities;
         }
