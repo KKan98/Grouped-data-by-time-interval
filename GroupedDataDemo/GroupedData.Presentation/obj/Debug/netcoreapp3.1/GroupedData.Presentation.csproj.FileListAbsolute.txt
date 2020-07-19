@@ -1,0 +1,12 @@
+C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\GroupedDataDemo\GroupedData.Presentation\obj\Debug\netcoreapp3.1\GroupedData.Presentation.csprojAssemblyReference.cache
+C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\GroupedDataDemo\GroupedData.Presentation\obj\Debug\netcoreapp3.1\GroupedData.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\GroupedDataDemo\GroupedData.Presentation\obj\Debug\netcoreapp3.1\GroupedData.Presentation.AssemblyInfoInputs.cache
+C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\GroupedDataDemo\GroupedData.Presentation\obj\Debug\netcoreapp3.1\GroupedData.Presentation.AssemblyInfo.cs
+C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\GroupedDataDemo\GroupedData.Presentation\bin\Debug\netcoreapp3.1\GroupedData.Presentation.deps.json
+C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\GroupedDataDemo\GroupedData.Presentation\bin\Debug\netcoreapp3.1\GroupedData.Presentation.dll
+C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\GroupedDataDemo\GroupedData.Presentation\bin\Debug\netcoreapp3.1\GroupedData.Presentation.pdb
+C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\GroupedDataDemo\GroupedData.Presentation\bin\Debug\netcoreapp3.1\GroupedData.Infrastructure.dll
+C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\GroupedDataDemo\GroupedData.Presentation\bin\Debug\netcoreapp3.1\GroupedData.Infrastructure.pdb
+C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\GroupedDataDemo\GroupedData.Presentation\obj\Debug\netcoreapp3.1\GroupedData.Presentation.csproj.CopyComplete
+C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\GroupedDataDemo\GroupedData.Presentation\obj\Debug\netcoreapp3.1\GroupedData.Presentation.dll
+C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\GroupedDataDemo\GroupedData.Presentation\obj\Debug\netcoreapp3.1\GroupedData.Presentation.pdb

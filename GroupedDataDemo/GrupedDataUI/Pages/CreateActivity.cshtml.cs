@@ -1,20 +1,23 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using GrupedDataUI.Models;
+﻿using GroupedData.Application.Features;
+using GroupedData.Application.Infrastructure;
+using GroupedData.Presentation.Activity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace GrupedDataUI.Pages
+namespace GroupedDataUI.Pages
 {
     public class CreateActivityModel : PageModel
     {
-        [BindProperty]
-        public ActivityModel ActivityModel { get; set; }
-        public void OnGet()
-        {
+        private readonly ICommandHandler<RegistrationActivityCommand> _commandHandler;
 
+        public CreateActivityModel(ICommandHandler<RegistrationActivityCommand> commandHandler)
+        {
+            _commandHandler = commandHandler;
+        }
+
+        public IActionResult OnGet()
+        {
+            return Page();
         }
         public IActionResult OnPost()
         {
@@ -22,7 +25,11 @@ namespace GrupedDataUI.Pages
             {
                 return Page();
             }
-            return RedirectToPage("/ActivitiesOverview");
+            _commandHandler.Handle(new RegistrationActivityCommand(ActivityModel.Activity, ActivityModel.Description, ActivityModel.Date));
+            return RedirectToPage("/ActivityIndex");
         }
+
+        [BindProperty]
+        public ActivityModel ActivityModel { get; set; }
     }
 }

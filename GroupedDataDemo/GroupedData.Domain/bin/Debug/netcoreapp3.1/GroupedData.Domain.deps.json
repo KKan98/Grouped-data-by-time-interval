@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GroupedData.Domain/1.0.0": {
+        "dependencies": {
+          "GroupedData.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "GroupedData.Domain.dll": {}
+        }
+      },
+      "GroupedData.Infrastructure/1.0.0": {
+        "runtime": {
+          "GroupedData.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GroupedData.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GroupedData.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

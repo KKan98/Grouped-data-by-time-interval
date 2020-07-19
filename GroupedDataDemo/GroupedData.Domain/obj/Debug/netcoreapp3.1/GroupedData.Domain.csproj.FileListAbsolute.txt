@@ -1,0 +1,12 @@
+C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\GroupedDataDemo\GroupedData.Domain\obj\Debug\netcoreapp3.1\GroupedData.Domain.csprojAssemblyReference.cache
+C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\GroupedDataDemo\GroupedData.Domain\obj\Debug\netcoreapp3.1\GroupedData.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\GroupedDataDemo\GroupedData.Domain\obj\Debug\netcoreapp3.1\GroupedData.Domain.AssemblyInfoInputs.cache
+C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\GroupedDataDemo\GroupedData.Domain\obj\Debug\netcoreapp3.1\GroupedData.Domain.AssemblyInfo.cs
+C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\GroupedDataDemo\GroupedData.Domain\bin\Debug\netcoreapp3.1\GroupedData.Domain.deps.json
+C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\GroupedDataDemo\GroupedData.Domain\bin\Debug\netcoreapp3.1\GroupedData.Domain.dll
+C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\GroupedDataDemo\GroupedData.Domain\bin\Debug\netcoreapp3.1\GroupedData.Domain.pdb
+C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\GroupedDataDemo\GroupedData.Domain\bin\Debug\netcoreapp3.1\GroupedData.Infrastructure.dll
+C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\GroupedDataDemo\GroupedData.Domain\bin\Debug\netcoreapp3.1\GroupedData.Infrastructure.pdb
+C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\GroupedDataDemo\GroupedData.Domain\obj\Debug\netcoreapp3.1\GroupedData.Domain.csproj.CopyComplete
+C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\GroupedDataDemo\GroupedData.Domain\obj\Debug\netcoreapp3.1\GroupedData.Domain.dll
+C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\GroupedDataDemo\GroupedData.Domain\obj\Debug\netcoreapp3.1\GroupedData.Domain.pdb
