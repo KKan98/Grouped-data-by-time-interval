@@ -31,5 +31,9 @@ namespace GroupedData.Domain.Activity
         {
             activityRepository.Save(new ActivityEntity(_id, _commandActivity, _commandDescription, _commandDate));
         }
+        public void Update(string activity, string description, string date, IActivityRepository activityRepository)
+        {
+            activityRepository.Update(_id, activity, description, date);
+        }
     }
 }

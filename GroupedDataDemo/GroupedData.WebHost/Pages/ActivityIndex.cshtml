@@ -22,6 +22,9 @@
                     <td>@item.Activity</td>
                     <td>@item.Description</td>
                     <td>@item.Date</td>
+                    <td>
+                        <a asp-page="./EditActivity" asp-route-id = "@item.Id">Edit</a>
+                    </td>
                 </tr>
             }
         </tbody>

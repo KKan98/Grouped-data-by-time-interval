@@ -31,6 +31,7 @@ namespace GroupedData.Presentation.Activity
             {
                 var activity = new ActivityModel();
 
+                activity.Id = entity.Id;
                 activity.Activity = entity.Activity;
                 activity.Description = entity.Description;
                 activity.Date = entity.Date;

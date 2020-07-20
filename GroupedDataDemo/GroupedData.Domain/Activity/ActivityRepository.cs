@@ -19,5 +19,12 @@ namespace GroupedData.Domain.Activity
         {
             _inMemory.Add(activity);
         }
+        public void Update(Guid id, string activity, string description, string date)
+        {
+            var entityActivity = Get(id);
+            entityActivity.Activity = activity;
+            entityActivity.Description = description;
+            entityActivity.Date = date;
+        }
     }
 }

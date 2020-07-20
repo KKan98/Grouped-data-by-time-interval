@@ -460,3 +460,4 @@ C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\Groupe
 C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\GroupedDataDemo\GroupedData.WebHost\obj\Debug\netcoreapp3.1\staticwebassets\GroupedData.WebHost.StaticWebAssets.Manifest.cache
 C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\GroupedDataDemo\GroupedData.WebHost\obj\Debug\netcoreapp3.1\staticwebassets\GroupedData.WebHost.StaticWebAssets.xml
 C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\GroupedDataDemo\GroupedData.WebHost\obj\Debug\netcoreapp3.1\GroupedData.WebHost.genruntimeconfig.cache
+C:\Users\kacpe\OneDrive\Pulpit\Projekty\ITM\Grouped-data-by-time-interval\GroupedDataDemo\GroupedData.WebHost\obj\Debug\netcoreapp3.1\Razor\Pages\EditActivity.cshtml.g.cs

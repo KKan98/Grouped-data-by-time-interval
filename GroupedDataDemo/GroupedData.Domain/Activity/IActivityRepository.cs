@@ -7,5 +7,6 @@ namespace GroupedData.Domain.Activity
     {
         void Save(ActivityEntity activity);
         ActivityEntity Get(Guid activityId);
+        void Update(Guid id, string activity, string description, string date);
     }
 }

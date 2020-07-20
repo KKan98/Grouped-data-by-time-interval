@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Input;
 using GroupedData.Application.Features;
+using GroupedData.Application.Features.EditActivity;
 using GroupedData.Application.Features.RegistrationActivity;
 using GroupedData.Application.Infrastructure;
 using GroupedData.Domain.Activity;
@@ -38,6 +39,7 @@ namespace GrupedDataUI
             services.AddScoped<IActivityFactory,ActivityFactory>();
             services.AddScoped<IActivityRepository, ActivityRepository>();
             services.AddScoped<IActivityPresentationRepository, ActivityPresentationRepository>();
+            services.AddScoped<ICommandHandler<EditActivityCommand>, EditActivityCommandHandler>();
 
             services.AddSingleton<IInMemoryDb<ActivityEntity>, InMemoryActivity>();
         }

@@ -1,0 +1,16 @@
+﻿@page
+@model GroupedData.WebHost.Pages.EditActivityModel
+@{
+    ViewData["Title"] = "EditActivity";
+}
+
+<h1>EditActivity</h1>
+<form method="post">
+    <input asp-for="ActivityModel.Id" type="hidden"/>
+    <span asp-validation-for="ActivityModel.Activity" class="text-danger d-block"></span>
+    Activity: <input asp-for="ActivityModel.Activity" /><br />
+    Description: <input asp-for="ActivityModel.Description" /><br />
+    <span asp-validation-for="ActivityModel.Date" class="text-danger d-block"></span>
+    Date: <input asp-for="ActivityModel.Date" type="date" /><br />
+    <input type="submit" value="Edit" />
+</form>
