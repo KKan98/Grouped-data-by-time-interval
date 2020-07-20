@@ -10,13 +10,15 @@ namespace GroupedData.Infrastructure
         public string Activity { get; set; }
         public string Description { get; set; }
         public string Date { get; set; }
+        public bool IsDeleted { get; set; }
 
-        public ActivityEntity(Guid id, string activity, string description, string date)
+        public ActivityEntity(Guid id, string activity, string description, string date, bool isDeleted = false)
         {
             Id = id;
             Activity = activity;
             Description = description;
             Date = date;
+            IsDeleted = isDeleted;
         }
     }
 }

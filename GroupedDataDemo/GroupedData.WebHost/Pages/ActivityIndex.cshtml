@@ -24,6 +24,7 @@
                     <td>@item.Date</td>
                     <td>
                         <a asp-page="./EditActivity" asp-route-id = "@item.Id">Edit</a>
+                        <button type="submit" asp-page-handler="delete" asp-route-id="@item.Id">delete</button>
                     </td>
                 </tr>
             }

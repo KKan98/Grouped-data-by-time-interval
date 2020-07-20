@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Input;
 using GroupedData.Application.Features;
+using GroupedData.Application.Features.DeleteActivity;
 using GroupedData.Application.Features.EditActivity;
 using GroupedData.Application.Features.RegistrationActivity;
 using GroupedData.Application.Infrastructure;
@@ -40,6 +41,7 @@ namespace GrupedDataUI
             services.AddScoped<IActivityRepository, ActivityRepository>();
             services.AddScoped<IActivityPresentationRepository, ActivityPresentationRepository>();
             services.AddScoped<ICommandHandler<EditActivityCommand>, EditActivityCommandHandler>();
+            services.AddScoped<ICommandHandler<DeleteActivityCommand>, DeleteActivityCommandHandler>();
 
             services.AddSingleton<IInMemoryDb<ActivityEntity>, InMemoryActivity>();
         }

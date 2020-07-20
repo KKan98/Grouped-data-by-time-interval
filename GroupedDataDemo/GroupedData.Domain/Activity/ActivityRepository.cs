@@ -26,5 +26,10 @@ namespace GroupedData.Domain.Activity
             entityActivity.Description = description;
             entityActivity.Date = date;
         }
+        public void Delete(Guid id)
+        {
+            var entityActivity = Get(id);
+            entityActivity.IsDeleted = true;
+        }
     }
 }

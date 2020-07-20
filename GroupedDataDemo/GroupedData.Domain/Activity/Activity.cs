@@ -35,5 +35,9 @@ namespace GroupedData.Domain.Activity
         {
             activityRepository.Update(_id, activity, description, date);
         }
+        public void Delete(IActivityRepository activityRepository)
+        {
+            activityRepository.Delete(_id);
+        }
     }
 }

@@ -1,6 +1,7 @@
 ﻿using GroupedData.Infrastructure;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace GroupedData.Presentation.Activity
 {
@@ -25,7 +26,7 @@ namespace GroupedData.Presentation.Activity
         }
         public IEnumerable<ActivityModel> GetList()
         {
-            var entities = _inMemory.GetAll();
+            var entities = _inMemory.GetAll().Where(x => !x.IsDeleted);
             var activities = new List<ActivityModel>();
             foreach (var entity in entities)
             {
